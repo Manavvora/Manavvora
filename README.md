@@ -1,6 +1,7 @@
 ### Hi there 👋
+I am a Master's student in Aerospace Engineering at the University of Illinois Urbana Champaign. I currently am a research assistant in the LEADCAT lab, working with Prof. Melkior Ornik.
 
-- I’m currently working on sequential decision making, artificial intelligence, optimization and robotics
+- My current research is focused on sequential decision making, artificial intelligence, optimization and robotics
 - 📫 How to reach me: mkvora2@illinois.edu
 - ⚡ Fun fact: I am ambidextrous
 
